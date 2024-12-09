@@ -1,3 +1,5 @@
+
+![Logo de l'application](images/logo.png)
 # Rapport de Projet - Fun Fact Calculator
 
 ## 1. Introduction
@@ -20,17 +22,23 @@ L’interface utilisateur a été conçue en appliquant les concepts du [Daily U
 
 Ces choix garantissent une utilisation intuitive et une navigation fluide.
 
+![Interface principale de l'application](images/design.png)
+
 ### 2.2. Présentation de l’innovation
 L’innovation principale réside dans l’intégration de faits amusants liés aux résultats numériques. Ce concept, en plus d’être unique, encourage l’utilisateur à passer plus de temps sur l’application, rendant celle-ci plus attractive et potentiellement rentable.
 
 - **Indicateur visuel** : Une ampoule s’allume pour signaler qu’un fait amusant est disponible.
 - **Expérience utilisateur enrichie** : En combinant calculs et faits amusants, l’application offre une expérience divertissante, augmentant ainsi son attrait.
 
+![Exemple d’affichage d’un fait amusant](images/funfactdisplay.png)
+
 ### 2.3. Critique du travail
 #### Points faibles :
 - **Hésitation technologique** : J’ai hésité à utiliser des outils modernes comme **Jetpack Compose** et **Kotlin**, qui auraient pu simplifier certaines parties du projet et offrir plus de flexibilité.
 - **Design initial** : Bien que j’aie utilisé Figma pour concevoir l’interface, je n’ai pas pu transférer directement mes designs en XML à cause de limitations techniques, ce qui a ralenti la phase de développement.
 - **Manque de tests automatisés** : Bien que l’application ait été testée manuellement et fonctionne correctement, l’absence de tests unitaires ou d’intégration est une lacune à combler pour garantir une qualité encore meilleure.
+
+![Design réalisé sur Figma](images/figmadesign.png)
 
 #### Perspective d'amélioration :
 - Explorer **Jetpack Compose** et **Kotlin** dans les futurs projets pour bénéficier de leurs avantages en termes de productivité et de modernité.
